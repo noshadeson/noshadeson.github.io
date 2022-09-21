@@ -1,0 +1,42 @@
+[
+  {
+    "Navigation": {
+      "value": "#F2F2F2"
+    }
+  },
+  {
+    "Hero": {
+      "value": "#F2F2F2"
+    }
+  },
+  {
+    "Sub-page Hero": {
+      "value": "#F2F2F2"
+    }
+  },
+  {
+    "Body Layouts": {
+      "value": "#F2F2F2"
+    }
+  },
+  {
+    "Testimonials": {
+      "value": "#F2F2F2"
+    }
+  },
+  {
+    "Signup": {
+      "value": "#F2F2F2"
+    }
+  },
+  {
+    "Footer": {
+      "value": "#F2F2F2"
+    }
+  },
+  {
+    "Sample Wireframe": {
+      "value": "#FFFFFF"
+    }
+  }
+]
